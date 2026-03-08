@@ -3,7 +3,7 @@
 Predict employee retention risk using key workplace satisfaction indicators. Complete each section and click Analyze to generate a prediction and SHAP explanation.
 (1 = Strongly Disagree | 5 = Strongly Agree)
 
-
+Deployed on Huggingface to interact with an ML model predicting employee turnover
 
 Employee Turnover Predictor &amp; Interpreter
 
