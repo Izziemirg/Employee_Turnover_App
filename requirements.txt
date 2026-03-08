@@ -1,0 +1,10 @@
+gradio
+Pillow
+yake
+pandas
+scikit-learn
+matplotlib
+numpy
+streamlit
+xgboost
+shap
